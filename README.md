@@ -2,7 +2,7 @@
 - 👀 I’m interested in to participate in any project of web development// estoy interesado en participar en cualquier proyecto de desarrollo web
 - 🌱 I’m currently learning React// estoy aprendiendo React
 - 💞️ I’m looking to collaborate on Frontend Developement // estoy buscando colaborar con Frontend Development
-- 📫 How to reach me twitter=> @AndresDiazLo, Facebook=>https://www.facebook.com/ivanandres.diazlopez.5/,
+- 📫 How to reach me twitter=> https://twitter.com/AndresDiazLo, Facebook=>https://www.facebook.com/ivanandres.diazlopez.5/, email=> ivanandresdilox@gmail.com
 
 <!---
 ivanandresdiaz/ivanandresdiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
